@@ -11,3 +11,4 @@ This folder contains screenshots documenting the Azure Retail Sales ETL project.
 * `05-sql-data.png` — SQL destination data and computed column
 * `06-category-analysis.png` — Sales analysis by category
 * `07-customer-analysis.png` — Sales analysis by customer type
+* `08-published.png` — Published state
